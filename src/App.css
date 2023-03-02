@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  background-color: #f1f2f6;
+}
+.App--header {
+
+}
+.box--env {
+  display: inline-flex;
+}
+.Country--box {
+  
+  width: 400px;
+  height: 400px;
+
+  
+  border: 0.2rem solid #f8e7e7;
+  margin: 2rem;
+  background-color: #ffffff;
+}
+.App--header__text {
+  font-size: 5rem;
+  color:#ffa502;
+}
+.App--search {
+color: orange;
+    width: 30%;
+    height: 3rem;
+    margin: 3rem auto;
+    text-indent: 2rem;
+    outline: none;
+    border: 0.2rem solid #f8e7e7;
+    font-size: 2rem;
+    border-radius: 3rem;
+    background: #faf6f6
+}
+
+.Country--box h1 {
+  color: orange;
+  
+}
+.Country--box span {
+  text-align: center;
+}
+
+
+.Country__description {
+
+}
+.Country__flags {
+  width: 80%;
+  height: 50%;
+}
+span {
+  display: block;
+  font-weight: bold;
+  text-align: left;
+}
+
+.country--footer {
+  position: relative;
+  height: 5rem;
+  background-color: white;
+}
